@@ -153,3 +153,7 @@ response ={
 }
 
 print(response["Reservations"][0]["Instances"][0]["Architecture"])
+
+
+
+response["Reservations"][0]["Instances"][0]

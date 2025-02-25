@@ -16,3 +16,5 @@ for instance_id in instance_ids:
     response = ec2.start_instances(InstanceIds=[instance_id])
     print(f"Response for {instance_id}:")
     print(response)
+
+

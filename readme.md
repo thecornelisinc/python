@@ -93,9 +93,56 @@ This can be use:
         * Bitwise operators
 
 # Python Comparison Operators
-    ==	Equal	x == y	
-    !=	Not equal	x != y	
-    >	Greater than	x > y	
-    <	Less than	x < y	
-    >=	Greater than or equal to	x >= y	
-    <=	Less than or equal to	x <= y
+    ==	Equal	 
+        Example: x == y	
+
+    !=	Not equal	
+        Example: x != y	
+
+    >	Greater than	
+        Example: x > y	
+
+    <	Less than	
+        Example: x < y	
+
+    >=	Greater than or equal to	
+        Example: x >= y	
+
+    <=	Less than or equal to	
+        Example: x <= y
+
+# python conditions and if statement
+    - comparison operations are use together with if statement
+    - if statement is denoted by "if" keyworld
+    - the conditional statement, if, can be extended by Elif and Else 
+    - You can check for more than one condition
+ 
+
+# Python Loops
+    - There are two type of Loops
+        * For Loops
+            - When you know the number of iteration
+            - When you have a list or dictioinary of items
+        * While Loops
+            - When number of iteration is unknow 
+            - When you need to repeat a block, action or instruction until a condition change
+
+# continue and break
+    * continue
+        - Continue mean skip the current iteration/item and process from the next one
+    * break
+        - Break mean stop the the current, do not process with the next then exit the entire process
+
+# Python Funtion 
+    - A function is a block of code which only runs when it is called.
+    - You can pass data, know as parameters into a function
+    - A function can return data as a result
+    - A parameter is the variable listed inside the parentheses in the function definition
+    - An argument is the value that is sent to the function when it is called.
+
+# Module    
+        - custom module
+            - create your own module
+            
+            - import inbiult module
+            - 

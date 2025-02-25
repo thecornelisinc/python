@@ -78,4 +78,7 @@ cars = {
 # print(cars.get("car3"))
 
 # print(cars["car1"]["brand"])
-print(cars["car5"]["seller"]["Location"])
+# print(cars["car5"]["seller"]["Location"])
+
+# Find let of Object in a disctionary
+print(len(cars["car2"]))

@@ -51,3 +51,9 @@ for each_fruit in fruits:
   print(each_fruit.upper())
   print(f"The index of {each_fruit} is: {fruits.index(each_fruit)}")
 
+# Check the len of items in list
+# To determine how many items a list has, use the len()
+fruits = ["Orange", "Banana", "Apple", "Grapes" ]
+
+print(len(fruits))
+
