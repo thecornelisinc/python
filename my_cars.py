@@ -1,11 +1,3 @@
-person = {
-    "Name": "Jimi",
-    "Location": "Kansas",
-    "Country": "USA"
-
-}
-
-
 cars = {
     "car1": {
         "brand": "Ford",
@@ -34,3 +26,4 @@ cars = {
         "seller": { "Name": "John", "Location": "Kansas"}
     }
 }
+

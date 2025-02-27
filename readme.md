@@ -141,8 +141,69 @@ This can be use:
     - An argument is the value that is sent to the function when it is called.
 
 # Module    
-        - custom module
-            - create your own module
-            
-            - import inbiult module
-            - 
+    - What is a module?
+        A module is like a package of code that contains related functions, variables, and instructions that can be reused in different parts of a program.
+        For Examples:
+        A module is just a file with some code inside it. If you have a file called math_tools.py that has functions for addition and subtraction, you can use this module in another program without writing the same code again
+
+    -  There are several type of module: 
+
+        Some are:
+            * User-Defined/Custom Modules
+            Modules that you create yourself to organize your code and make it reusable.
+            Example: my_module_file.py
+
+            * Built-in Module
+            Pre-installed modules that come with a programming language like Python, JavaScript, or Java. They provide useful functions so you don’t have to write them from scratch
+            Example:
+                - random
+                - datetime
+                - math
+
+            * External(Third-party Module)
+            Modules developed by others that you can install and use in your project.
+            - You must install this before import
+            Example:
+                - requests
+                - json
+
+
+    - importing and using module
+        To use modul, you have to import it to the file where you want to use it from. Below are examples of ways you can use to import module
+            - import module_name
+            - from module_name import specific_function
+            - import module_name as alias
+            - from module_name import * (Not recommended)
+
+
+
+# Summary
+    - variables 
+        - global
+        - local
+            * global x
+
+    - varible
+        - do and don't of variables name
+
+    - data type
+        - string
+        - int
+        - floor
+        - complex
+        - bool
+        - list/array
+        - dict/object
+
+    - operators
+    - comparism operators
+    - conditional/if statement
+    - loops
+        * while 
+        * for loop
+    - function
+        * def
+            * argument
+            * *arg
+            * **key:pair
+    - Modules
